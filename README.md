@@ -16,9 +16,10 @@ This paper has been submitted for publication in IEEE Transaction on AgriFood El
 > Brief description of what this paper is about (2-3 sentences). Include a
 > figure as well with the main result of your paper.
 
-![](manuscript/figures/hawaii-trend.png)
+![](results/measurement_results.PNG)
 
-*Caption for the example figure with the main results.*
+*Accumulated measurements of (a)(top) energy storage, (a)(middle) illuminance, (a)(bottom) air temperature of the four luXSensing beacons for 28
+days*
 
 
 ## Abstract
