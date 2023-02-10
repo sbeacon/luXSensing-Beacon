@@ -44,7 +44,7 @@ See the `README.md` files in each directory for a full description.
 You can download a copy of all the files in this repository by cloning the
 [git](https://git-scm.com/) repository:
 
-    git clone https://github.com/pinga-lab/PAPER-REPO.git
+    git clone https://github.com/sbeacon/luXSensing-Beacon.git
 
 A copy of the repository is also archived at *insert DOI here*
 
